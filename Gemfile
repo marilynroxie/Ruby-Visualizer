@@ -6,9 +6,10 @@ git_source(:github) do |repo_name|
 end
 
 gem "rails", "~> 7.0" # Update to latest stable version
+gem "psych", "5.1.2"
 gem "font-awesome-sass", "~> 6.0"
 gem "pg"
-gem "puma", "~> 5.0"
+gem "puma", "~> 6.0"
 gem "sass-rails", "~> 6.0"
 gem "uglifier", ">= 4.0.0" # Ensure compatibility with newer versions
 gem "webpacker", "~> 5.4"

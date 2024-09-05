@@ -4,8 +4,10 @@ Forked from [Ruby Visualizer](https://github.com/bvluong/Ruby-Visualizer), creat
 
 ### Prerequisites
 
+gem install rails
 brew install postgresql
 brew install yarn
+brew install nvm
 
 ### Background
 
